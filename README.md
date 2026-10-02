@@ -328,6 +328,7 @@ python3 bot_2.py
 ```ini
 nano /etc/systemd/system/minecloud.service
 ```
+then paste this 
 ``` ini
 [Unit]
 Description=MineCloud Discord VPS Bot
@@ -343,7 +344,8 @@ RestartSec=5
 [Install]
 WantedBy=multi-user.target
 ```
-
+then ctrl+o enter ctrl+x 
+all done 
 Then:
 
 ``` bash
