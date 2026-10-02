@@ -27,7 +27,7 @@ infrastructure directly from Discord.
 - 💾 Database backup and port repair
 - ⏰ VPS expiration and renewal
 - 🛡️ Admin and Main Admin permissions
-- 🚀 Self-service `!deploy`
+- 🚀 Self-service `1claim`
 - 🎁 Invite-based VPS reward with confirmation
 
 ------------------------------------------------------------------------
