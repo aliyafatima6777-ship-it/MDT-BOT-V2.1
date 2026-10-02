@@ -324,8 +324,10 @@ python3 bot_2.py
 
 # 🔁 24/7 Systemd
 
-Example:
-
+ 24/7 Systemd:
+```ini
+nano /etc/systemd/system/minecloud.service
+```
 ``` ini
 [Unit]
 Description=MineCloud Discord VPS Bot
