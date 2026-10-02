@@ -40,13 +40,13 @@ infrastructure directly from Discord.
 ## 👤 User Commands
 
 ``` text
-!ping
-!uptime
-!myvps
-!manage [@user]
-!share-user @user <vps_number>
-!share-ruser @user <vps_number>
-!manage-shared @owner <vps_number>
+1ping
+1uptime
+1myvps
+1manage [@user]
+1share-user @user <vps_number>
+1share-ruser @user <vps_number>
+1manage-shared @owner <vps_number>
 ```
 
 | Command                              | Description                                          |
