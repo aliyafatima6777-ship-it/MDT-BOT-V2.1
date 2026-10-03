@@ -392,7 +392,7 @@ __pycache__/
 
 # 👨‍💻 Credits
 
-**Created by ChatGPT × lahis_g**
+**Created by lahis_g**
 
 ------------------------------------------------------------------------
 
